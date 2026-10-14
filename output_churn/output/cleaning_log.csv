@@ -1,0 +1,6 @@
+step,rows_removed,pct_of_raw,rows_left
+Exact duplicate rows,34335,3.22,1033036
+Missing customer ID,235151,22.03,797885
+"Non-product stock codes (POST, M, BANK ...)",3662,0.34,794223
+Unit price <= 0,60,0.01,794163
+Invalid quantity (sale <= 0 / return >= 0),0,0.0,794163

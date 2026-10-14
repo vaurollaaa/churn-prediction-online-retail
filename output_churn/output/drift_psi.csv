@@ -1,0 +1,16 @@
+feature,psi,status
+tenure_days,0.54,major shift
+order_momentum,0.0836,stable
+orders_prev_90d,0.0681,stable
+recency_days,0.0377,stable
+orders_last_90d,0.023,stable
+std_gap_days,0.0188,stable
+avg_gap_days,0.0133,stable
+recency_over_gap,0.0087,stable
+frequency,0.0079,stable
+n_products,0.0058,stable
+std_order_value,0.0053,stable
+monetary,0.0045,stable
+items_per_order,0.0031,stable
+return_rate,0.001,stable
+avg_order_value,0.001,stable

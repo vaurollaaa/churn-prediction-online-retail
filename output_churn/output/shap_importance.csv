@@ -1,0 +1,17 @@
+,0
+frequency,0.3019635
+recency_days,0.30123755
+std_gap_days,0.26156336
+orders_last_90d,0.25935066
+avg_gap_days,0.2526343
+items_per_order,0.23506564
+monetary,0.23076525
+recency_over_gap,0.16506152
+std_order_value,0.1245696
+n_products,0.10714249
+return_rate,0.06343322
+avg_order_value,0.056020975
+orders_prev_90d,0.035295174
+order_momentum,0.029516554
+is_uk,0.0043880846
+is_one_time,0.0

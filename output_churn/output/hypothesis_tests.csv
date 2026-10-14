@@ -1,0 +1,16 @@
+feature,skewness,median_churned,median_retained,p_value,effect_rbc,p_holm,significant,magnitude
+frequency,8.06714,3.0,7.0,0.0,-0.48736,0.0,True,medium
+monetary,18.28828,828.81,2454.315,0.0,-0.47355,0.0,True,medium
+avg_gap_days,2.32292,87.2,46.95455,0.0,0.44552,0.0,True,medium
+orders_last_90d,7.01238,1.0,1.0,0.0,-0.39212,0.0,True,medium
+n_products,5.30379,41.0,91.0,0.0,-0.38255,0.0,True,medium
+std_gap_days,1.98117,56.78908,32.65403,0.0,0.37136,0.0,True,medium
+recency_days,0.78268,65.0,31.0,0.0,0.30679,0.0,True,medium
+std_order_value,33.19992,77.13235,135.18213,0.0,-0.28616,0.0,True,small
+orders_prev_90d,5.97372,1.0,1.0,0.0,-0.25652,0.0,True,small
+tenure_days,-0.42713,312.0,457.5,0.0,-0.24532,0.0,True,small
+items_per_order,26.89332,139.58333,191.58333,0.0,-0.21505,0.0,True,small
+avg_order_value,21.56317,268.23021,330.3425,0.0,-0.20619,0.0,True,small
+return_rate,4.32706,0.0,0.00943,0.0,-0.15592,0.0,True,small
+order_momentum,1.90218,1.0,1.0,0.0,-0.11621,0.0,True,small
+recency_over_gap,15.96468,0.57225,0.64526,0.08315,-0.04276,0.08315,False,negligible

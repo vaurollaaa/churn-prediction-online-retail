@@ -17,11 +17,11 @@ Rank recently active customers by their risk of not buying again, so a retention
 ## Key figures
 | Cumulative gains | Drivers (SHAP) |
 |---|---|
-| ![gains](output/figures/cumulative_gains.png) | ![shap](output/figures/shap_summary.png) |
+| ![gains](output_churn/figures/cumulative_gains.png) | ![shap](output_churn/figures/shap_summary.png) |
 
 | Model comparison | ROI simulation |
 |---|---|
-| ![models](output/figures/model_comparison.png) | ![roi](output/figures/roi_simulation.png) |
+| ![models](output_churn/figures/model_comparison.png) | ![roi](output_churn/figures/roi_simulation.png) |
 
 ## Approach
 1. **Business framing:** churn defined from behaviour (no purchase in 90 days after a cutoff).

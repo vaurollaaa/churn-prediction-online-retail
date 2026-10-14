@@ -61,9 +61,3 @@ pip install -r requirements.txt
 # download the dataset into data/ (see data/README.md)
 jupyter notebook notebooks/churn_prediction.ipynb
 ```
-
-## Repo structure
-`notebooks/` analysis · `output/` figures and result tables · `data/` dataset instructions
-
-## Author
-<Nama kamu> · <LinkedIn> · <Email>
